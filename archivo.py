@@ -1,2 +1,1 @@
-print("hola mundo")
-print("coca de piña")
+coquitas = float(input("ingrese cuanta coca de piña: "))
